@@ -1,4 +1,4 @@
 Musica Gospel 01: Vitória<br>
 Musica Gospel 02: Caridade<br>
-musica Gospel 03: Depois do Casamento<br>
-musica gospel 04: Raiz coral
+Musica Gospel 03: Depois do Casamento<br>
+Musica Gospel 04: Raiz coral
